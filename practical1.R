@@ -77,3 +77,7 @@ vec2_factor
 #Extract the first third and sixth element
 vec3 <- vec2[c(1,3,6)]
 vec3
+
+
+
+
